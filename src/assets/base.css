@@ -1,12 +1,4 @@
-:root {
-  --color-border: var(--vt-c-divider-light-2);
-  --color-border-hover: var(--vt-c-divider-light-1);
 
-  --color-heading: var(--vt-c-text-light-1);
-  --color-text: var(--vt-c-text-light-1);
-
-  --section-gap: 160px;
-}
 
 *,
 *::before,
@@ -18,7 +10,6 @@
 
 body {
   min-height: 100vh;
-  color: var(--color-text);
   background: #181818; /* Pozadie je vždy nastavené na #181818 */
   transition:
     color 0.5s,
