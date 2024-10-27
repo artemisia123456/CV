@@ -87,6 +87,10 @@ h1 {
   overflow: auto; /* Allow scrolling if content overflows */
 }
 
+#app{
+  background-color: #181818;
+}
+
 @media (min-width: 1024px) {
     #app {
         display: block;
