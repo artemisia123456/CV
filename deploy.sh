@@ -7,6 +7,6 @@ cd dist
 
 git init add -A
 git commit -m 'New Deployment'
-git push -f git@github.com:artemisia123456/CV.git main:gh-pages
+git push -f git@github.com:artemisia123456/CV.git deploy:gh-pages
 
 cd -
