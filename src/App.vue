@@ -87,7 +87,7 @@ h1 {
   overflow: auto; /* Allow scrolling if content overflows */
 }
 
-#app{
+body{
   background-color: #181818;
 }
 
