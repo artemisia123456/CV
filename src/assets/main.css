@@ -38,3 +38,13 @@ a,
     width: 90%;
   }
 }
+
+@media (min-width: 1024px) {
+  body {
+      background-color: #181818;
+  }
+}
+
+body {
+      background-color: #181818;
+  }
