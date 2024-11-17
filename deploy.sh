@@ -5,8 +5,12 @@ npm run build
 
 cd dist
 
-git init add -A
+git init
+git checkout -b gh-pages
+git add *
+
 git commit -m 'New Deployment'
-git push -f git@github.com:artemisia123456/CV.git deploy:gh-pages
+git remote add origin https://github.com/artemisia123456/CV.git
+git push --force origin gh-pages
 
 cd -

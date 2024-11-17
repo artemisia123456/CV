@@ -4,22 +4,14 @@
       <h1>Vitajte na mojej osobnej webovej stránke!</h1>
     </header>
     <section>
-      <p class="flex-item">
-      Na tomto mieste sa dozviete viac o mne a mojej profesijnej ceste. Namiesto tradičného životopisu, ktorý čítate takmer každý deň, som sa rozhodla prezentovať svoje skúsenosti a zručnosti interaktívnou formou – vytvorením tejto webovej aplikácie.
-    </p>
-    <p style="margin-bottom: 50px;">
-      Prejdite si jednotlivé sekcie a objavte, kto som, čomu sa venujem a čo vám môžem ponúknuť!
-    </p>
-    <h2>Na úvod</h2>
-    <p>Volám sa Paulína Herčútová, mám 25 rokov a pôvodne som z Turčianských Teplíc, 
-      do Bratislavy sme sa s priateľom prisťahovali tohto roku v Júni. Momentálne pracujem ako zubná asistentka.
+    <p>Volám sa Paulína Herčútová, mám 25 rokov.
       Aktuálna práca pre mňa nemá žiadnu pridanú hodnotu a neumožňuje mi osobnostný rast, 
       preto si hľadám novú prácu, ktorá ma niekde posunie.
       Rýchlo sa učím nové veci, vo svojom voľnom čase sa vzdelávam ako to len ide. 
       Už vyše roka sa sama učím programovať v programovacom jazyku Java a môžem povedať, 
       že je to konečne niečo, čo ma baví. Baví ma najmä backend, ale prostredníctvom kurzu, 
-      ktorý momentálne absolvujem sa ku mne dostali aj základy frontendu. 
-      Chcem sa v programovaní zlepšovať a rásť.  
+      ktorý momentálne absolvujem sa ku mne dostali aj základy frontendu a testovania, ktoré ma tiež dosť bavili. 
+      Chcem sa v oblasti informatiky zlepšovať a učiť sa stále nové veci.  
     </p>
     <img src="@/assets/my-image/my-image.jpg" alt="">
     </section>

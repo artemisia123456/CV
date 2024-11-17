@@ -7,7 +7,8 @@
         <div>
           <h2>sdacademy.sk</h2>
           <h3>MÁJ 2024 - Súčasnosť</h3>
-          <p> Po takmer roku samoštúdia Javy som sa rozhodla urobiť si od Mája tohto roka online kurz zameraný na Javu. V tomto kurze nás učia aj základy html, CSS, JavaScript, SQL, testovania a Springu. Ukončenie kurzu bude prostredníctvom prezentácie finálneho projektu.  </p>
+          <p> Po takmer roku samoštúdia Javy som sa rozhodla urobiť si od Mája tohto roka online kurz zameraný na Javu. Dostava sa nám obrovské množstvo praktických ale aj teoretických poznatkov v oblastiach ako:
+            Java basics, Java fundamentals, Java Fundamentals coding, Java advanced Features coding, Software Testing, SQL, HTML, CSS, JavaScript, Vue.js, Spring. Ukončenie kurzu bude prostredníctvom prezentácie finálneho projektu (ja pracujem na vývoji aplikácie, ktorý uľahčí zubárom zhotovovanie liečebných plánov).  </p>
         </div>
         <div>
           <h2>Univerzita Mateja Bela v Banskej Bystrici Filozoficka fakulta</h2>
